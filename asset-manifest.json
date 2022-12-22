@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/christmas-gift/static/css/main.6ec4e863.css",
+    "main.js": "/christmas-gift/static/js/main.aee275b6.js",
+    "static/js/787.7c105921.chunk.js": "/christmas-gift/static/js/787.7c105921.chunk.js",
+    "static/media/boy_or_girl.png": "/christmas-gift/static/media/boy_or_girl.1e2d19e57c7dec94fa7f.png",
+    "static/media/family.png": "/christmas-gift/static/media/family.b735966791ec9bac1722.png",
+    "static/media/baby.png": "/christmas-gift/static/media/baby.374fc2b1f5fddd32d202.png",
+    "static/media/avatar.jpg": "/christmas-gift/static/media/avatar.01ced118661567bd4c92.jpg",
+    "static/media/sick.jpg": "/christmas-gift/static/media/sick.80e8051ec157a0bb6809.jpg",
+    "index.html": "/christmas-gift/index.html",
+    "main.6ec4e863.css.map": "/christmas-gift/static/css/main.6ec4e863.css.map",
+    "main.aee275b6.js.map": "/christmas-gift/static/js/main.aee275b6.js.map",
+    "787.7c105921.chunk.js.map": "/christmas-gift/static/js/787.7c105921.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ec4e863.css",
+    "static/js/main.aee275b6.js"
+  ]
+}
